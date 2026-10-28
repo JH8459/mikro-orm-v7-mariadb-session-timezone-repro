@@ -1,0 +1,9 @@
+{
+  "name": "repro-v7",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@mikro-orm/core": "7.2.5",
+    "@mikro-orm/mariadb": "7.2.5"
+  }
+}
